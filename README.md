@@ -59,7 +59,7 @@ Dưới đây là danh sách tổng hợp các sản phẩm và bài tập đư�
 ### 💻 Hệ thống nhúng (Embedded Systems)
 
 | Tên cá nhân/nhóm | Tên buổi học | Chủ đề/Tên đề tài | Link Github bài tập |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | 
 | **Nguyễn Quang Vinh** | Tuần 1 | Lập trình cơ bản (GPIO, LED) | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_1) |
 | **Nguyễn Quang Vinh** | Tuần 2 | Giao tiếp ngoại vi | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_2) |
 | **Nguyễn Quang Vinh** | Tuần 3 | Xử lý Ngắt và Timer | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_3) |
@@ -70,7 +70,7 @@ Dưới đây là danh sách tổng hợp các sản phẩm và bài tập đư�
 
 ### 🌐 Hệ thống IoT (Internet of Things)
 | Tên cá nhân/nhóm | Tên buổi học | Chủ đề/Tên đề tài | Link Github bài tập |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | 
 | **Nguyễn Quang Vinh** | Tuần 1 | Kết nối mạng & Cơ bản về IoT | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_1) |
 | **Nguyễn Quang Vinh** | Tuần 2 | Giao thức truyền thông (MQTT/HTTP) | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_2) |
 | **Nguyễn Quang Vinh** | Tuần 3 | Cảm biến và Cloud Messaging | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_3) |
