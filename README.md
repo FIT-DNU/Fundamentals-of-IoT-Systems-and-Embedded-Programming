@@ -58,34 +58,27 @@ Dưới đây là danh sách tổng hợp các sản phẩm và bài tập đư�
 
 ### 💻 Hệ thống nhúng (Embedded Systems)
 
-| Tên cá nhân/nhóm | Tên buổi học | Chủ đề/Tên đề tài | Link Github bài tập | Tình trạng |
+| Tên cá nhân/nhóm | Tên buổi học | Chủ đề/Tên đề tài | Link Github bài tập |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nguyễn Quang Vinh** | Tuần 1 | Lập trình cơ bản (GPIO, LED) | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_1) | Đã nộp |
-| **Nguyễn Quang Vinh** | Tuần 2 | Giao tiếp ngoại vi | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_2) | Đã nộp |
-| **Nguyễn Quang Vinh** | Tuần 3 | Xử lý Ngắt và Timer | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_3) | Đã nộp |
-| **Nguyễn Quang Vinh** | Tuần 4 | Ứng dụng/Mô-đun phức hợp | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_4) | Đã nộp |
-| **Nguyễn Quang Vinh** | Tuần 5 | Project/Báo cáo cuối kỳ | [Link Github](https://github.com/vinhshindo123/embedded_project/blob/main/Tuan_5) | Đã nộp |
-| **Võ Đức Toàn** | Tuần 3 | Xử lý Ngắt và Timer | [Link Github](https://github.com/vuductoan17710286736/ng-t-o-dit) | Đã nộp |
+| **Nguyễn Quang Vinh** | Tuần 1 | Lập trình cơ bản (GPIO, LED) | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_1) |
+| **Nguyễn Quang Vinh** | Tuần 2 | Giao tiếp ngoại vi | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_2) |
+| **Nguyễn Quang Vinh** | Tuần 3 | Xử lý Ngắt và Timer | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_3) |
+| **Nguyễn Quang Vinh** | Tuần 4 | Ứng dụng/Mô-đun phức hợp | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_4) |
+| **Nguyễn Quang Vinh** | Tuần 5 | Project/Báo cáo cuối kỳ | [Link Github](https://github.com/vinhshindo123/embedded_project/blob/main/Tuan_5) |
+| **Võ Đức Toàn** | Tuần 3 | Xử lý Ngắt và Timer | [Link Github](https://github.com/vuductoan17710286736/ng-t-o-dit) |
 ---
 
 ### 🌐 Hệ thống IoT (Internet of Things)
-
-| Tên cá nhân/nhóm | Tên buổi học | Chủ đề/Tên đề tài | Link Github bài tập | Tình trạng |
+| Tên cá nhân/nhóm | Tên buổi học | Chủ đề/Tên đề tài | Link Github bài tập |
 | :--- | :--- | :--- | :--- | :--- |
-| **Nguyễn Quang Vinh** | Tuần 4 | Kết nối MQTT và thu thập dữ liệu cảm biến | [Tuan\_4](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_4) | Đã nộp |
-| **Nguyễn Q. Vinh, Bùi Q. Trường, Phạm T. Vinh** | Tuần 5 | Xây dựng Dashboard giám sát trên nền tảng Cloud | [Tuan\_5](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_5) | Đã nộp (Nhóm) |
-
----
-| Tên cá nhân/nhóm | Tên buổi học | Chủ đề/Tên đề tài | Link Github bài tập | Tình trạng |
-| :--- | :--- | :--- | :--- | :--- |
-| **Nguyễn Quang Vinh** | Tuần 1 | Kết nối mạng & Cơ bản về IoT | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_1) | Đã nộp |
-| **Nguyễn Quang Vinh** | Tuần 2 | Giao thức truyền thông (MQTT/HTTP) | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_2) | Đã nộp |
-| **Nguyễn Quang Vinh** | Tuần 3 | Cảm biến và Cloud Messaging | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_3) | Đã nộp |
-| **Nguyễn Quang Vinh** | Tuần 4 | Xây dựng Ứng dụng điều khiển IoT | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_4) | Đã nộp |
-| **Nguyễn Q. Vinh, Bùi Q. Trường, Phạm T. Vinh** | Tuần 5 | Đồ án nhóm: Hệ thống giám sát IoT | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_5) | Đã nộp (Nhóm) |
-| **Hiếu** | N/A | Project IoT cơ bản | [Link Github](https://github.com/HIEUITX/i-t-p-tr-nh-iot.git) | Đã nộp |
-| **Nguyễn Doãn Bình An** | N/A | Project/Bài tập IoT khác | [Link Github](https://github.com/NguyenDoanBinhAn1714/webgameblynik.git) | Đã nộp |
-| **Bùi Quang Trường** | N/A | Project/Bài tập IoT khác | [Link Github](https://github.com/buiquangtruong205/dongdienvoay.git) | Đã nộp |
+| **Nguyễn Quang Vinh** | Tuần 1 | Kết nối mạng & Cơ bản về IoT | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_1) |
+| **Nguyễn Quang Vinh** | Tuần 2 | Giao thức truyền thông (MQTT/HTTP) | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_2) |
+| **Nguyễn Quang Vinh** | Tuần 3 | Cảm biến và Cloud Messaging | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_3) |
+| **Nguyễn Quang Vinh** | Tuần 4 | Xây dựng Ứng dụng điều khiển IoT | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_4) |
+| **Nguyễn Q. Vinh, Bùi Q. Trường, Phạm T. Vinh** | Tuần 5 | Đồ án nhóm: Hệ thống giám sát IoT | [Link Github](https://github.com/vinhshindo123/embedded_project/tree/main/Tuan_5) |
+| **Hiếu** | N/A | Project IoT cơ bản | [Link Github](https://github.com/HIEUITX/i-t-p-tr-nh-iot.git) |
+| **Nguyễn Doãn Bình An** | N/A | Project/Bài tập IoT khác | [Link Github](https://github.com/NguyenDoanBinhAn1714/webgameblynik.git) |
+| **Bùi Quang Trường** | N/A | Project/Bài tập IoT khác | [Link Github](https://github.com/buiquangtruong205/dongdienvoay.git) |
 
 ---
 
