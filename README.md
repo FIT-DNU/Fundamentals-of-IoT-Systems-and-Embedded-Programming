@@ -26,10 +26,30 @@ Dưới đây là danh sách tổng hợp các sản phẩm và bài tập đư�
 
 <details>
 <summary>
-    <h3>
-        📖 Sản phẩm Bài tập lớn
-    </h3>
+    <h3>
+        📖 Sản phẩm Bài tập lớn
+    </h3>
 </summary>
+
+### 🎓 Danh sách Sản phẩm Bài tập lớn
+
+| STT | Nhóm | Thành viên | Tên đề tài | Video kết quả | Video giới thiệu | Link Github |
+| :---: | :--- | :--- | :--- | :---: | :---: | :--- |
+| **1** | Trần Hải Long | Trần Hải Long<br>Mai Ngọc Vui<br>Nguyễn Thị Phương | Robo leo tường |  |  | [Wall_climbing_robot](https://github.com/TrHLong/Wall_climbing_robot) |
+| **2** | Nguyễn Trung Anh | Nguyễn Trung Anh<br>Nguyễn Doãn Bình An<br>Vi Sỹ Tuyên | Chó robot | [7660992827856.mp4](7660992827856.mp4) |  | [RobotChoIOT](https://github.com/NguyenDoanBinhAn1714/RobotChoIOT.git) |
+| **3** | Nguyễn Phúc Bằng | Nguyễn Phúc Bằng<br>Bùi Quang Trường | Máy bán hàng tự động | [laptrinhiot.mp4](laptrinhiot.mp4) |  | [maybanhang](https://github.com/buiquangtruong205/maybanhang.git) |
+| **4** | Phùng Mạnh Đức | Phùng Mạnh Đức<br>Nguyễn Quang Vinh<br>Phạm Thành Vinh | Hệ thống IoT LoRa Mesh cho nông nghiệp thông minh | [Video BTL - Lora Smart Irrigation](Video%20BTL%20-%20Lora%20Smart%20Irrigation) |  | [lora-smart-irrigation](https://github.com/VinhShindo/lora-smart-irrigation.git) |
+| **5** | Nguyễn Văn Dũng | Nguyễn Văn Dũng<br>Hoàng Đình Gia Huy<br>Vũ Đức Toàn | Nhện Robot | [Kết Quả.mp4](Kết%20Quả.mp4) | [Giới Thiệu](Giới%20Thiệu) | [Nhom5-NhenRobot](https://github.com/NGUYENVANDUNG205/Nhom5-NhenRobot.git) |
+| **6** | Hoàng Trung Hải | Hoàng Trung Hải<br>Nguyễn Minh Quang<br>Trần Đại Gia<br>Nguyễn Quang Duy | Robot tránh vật cản |  |  | [RobotESP32_IOT](https://github.com/Hoanghai2510/RobotESP32_IOT) |
+| **7** | Hoàng Văn Dũng | Hoàng Văn Dũng<br>Ngô Quang Trung<br>Vũ Đức Thắng | Robot hái chè |  |  | [BTL_RobotHaiChe](https://github.com/Trung010223/BTL_RobotHaiChe.git) |
+| **8** | Bùi Hữu Tri Phương | Bùi Hữu Tri Phương<br>Nguyễn Đình Quang<br>Nguyễn Minh Quân | SMART LOCKER |  |  | [SMART_LOCKER](https://github.com/triphuong25/SMART_LOCKER-) |
+| **9** | Trần Anh Tú | Trần Anh Tú<br>Nguyễn Quang Thịnh<br>Trần Thế Lộc | Hệ thống thuyền thu gom rác IoT | [Kết quả](Kết%20quả) |  | [IoT-trash-collector-boat](https://github.com/tutran56/IoT-trash-collector-boat) |
+| **10** | Nguyễn Sĩ Đại | Nguyễn Sĩ Đại<br>Trịnh Minh Tuệ<br>Nguyễn Đức Duy<br>Ngô Văn Đào | Nhà thông minh | [ketqua](ketqua) |  | [ngovandaosmarthome](https://github.com/ngovandao123/ngovandaosmarthome.git) |
+| **11** | Ngô Khánh Tùng | Ngô Khánh Tùng<br>Nguyễn Đức Doanh<br>Đào Đình Chí<br>Đỗ Khắc Quang | Drone |  |  | [Drone_IOT](https://github.com/tungdepzaivcl-123/Drone_IOT/tree/main) |
+| **12** | Ngô Văn Minh | Ngô Văn Minh<br>Phan Văn Đằng<br>Nguyễn Văn Nam | Bãi đỗ xe thông minh |  |  | [Robot_AI_Assistant](https://github.com/Ngo-Miingg/Robot_AI_Assistant.git) |
+| **13** | Đinh Trường Phong | Đinh Trường Phong<br>Đinh Văn Tân Lượng<br>Nguyễn Đình Tài | Hệ thống băng chuyền |  |  | [HeThongBangChuyen](https://github.com/kavsir/HeThongBangChuyen.git) |
+| **14** | Lý Gia Khánh | Lý Gia Khánh<br>Lại Minh Hiệp<br>Nguyễn Văn Khoa | Robot giám sát thông minh hình cầu |  |  | [IOT-ROLL](https://github.com/lygiakhanhmax/IOT-ROLL) |
+| **15** | Nguyễn Văn Khoa | Nguyễn Văn Khoa<br>Lê Đức Anh<br>Vũ Văn Hậu | Xe thám hiểm |  |  | [xethamhiem](https://github.com/HIEUITX/xethamhiem.git) |
 
 </details>
 
